@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telefonkonyv", "Telefonkonyv\Telefonkonyv.csproj", "{0A336427-836C-403F-B4B8-41023AC5EAA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safe", "Safe\Safe.csproj", "{4ED1461F-54CE-42B0-A91A-664EA54E5F8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0A336427-836C-403F-B4B8-41023AC5EAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A336427-836C-403F-B4B8-41023AC5EAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A336427-836C-403F-B4B8-41023AC5EAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED1461F-54CE-42B0-A91A-664EA54E5F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED1461F-54CE-42B0-A91A-664EA54E5F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED1461F-54CE-42B0-A91A-664EA54E5F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED1461F-54CE-42B0-A91A-664EA54E5F8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
